@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ozapiayu.github.io/TeA/sitemap_index.txt
+Sitemap: https://ozapiayu.github.io/YFJ/sitemap_index.txt
+Sitemap: https://ozapiayu.github.io/kvN/sitemap_index.txt
+Sitemap: https://ozapiayu.github.io/xfj/sitemap_index.txt
